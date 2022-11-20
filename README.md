@@ -6,7 +6,7 @@
 ### About Me 👋
 - 👴 01年出生 性别男 爱好女
 - 📖 从事信息安全1年
-- 💻 Web渗透，内网渗透，云安全，Python安全开发，Golang安全开发等...
+- 💻 Web渗透，内网渗透，Python安全开发，Golang安全开发等...
 
 <!--
 **yichensec/yichensec** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
