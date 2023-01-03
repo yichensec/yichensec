@@ -7,7 +7,7 @@
 - 👴 01年出生 性别男 爱好女
 - 📖 从事信息安全2年
 - 💻 目前钻研于：Web渗透，内网渗透，Python安全开发，Golang安全开发等...
-- 💻 当前项目：GUI_仓库，GUI_内部工具库
+- 💻 项目：GUI_tools
 
 <!--
 **yichensec/yichensec** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
