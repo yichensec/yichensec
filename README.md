@@ -3,10 +3,10 @@
 ### Hi, I’m 逸尘 👋
 
 ### About Me 👋
-- 👴 01年出生 性别男 爱好女
-- 📖 从事信息安全2年
-- 💻 目前钻研于：Web安全，内网渗透，Python安全开发等...
-
+- 👴 01年出生 处女座 高度敏感型人格
+- 📖 21年学习网络安全
+- 💻 目前钻研于，Web安全，src挖掘，内网渗透，Python安全开发等...
+- 💬 一个小废物 ...
 <!--
 **yichensec/yichensec** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
