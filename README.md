@@ -22,10 +22,6 @@
 <br>
 <br>
 
-
-
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=yichensec" /> </div>
-
 <!-- 仓库动态 -->
 ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=yichensec&show_icons=true&theme=tokyonight)
 
