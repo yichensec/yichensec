@@ -1,4 +1,11 @@
-
+ <div align="center">
+<span><p> 
+<strong>Profile Visit Counter : 访问者人数</strong>
+ </span></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/55116927/188241582-a98c3a80-83c9-4dfd-878e-cc126169451a.png" /> <img src="https://profile-counter.glitch.me/yichensec/count.svg" /></p>
+</div>
+<br>
+<br>
 <div align="center">
   <h1>Hi, I’m 逸尘 👋</h1>
 </div>
