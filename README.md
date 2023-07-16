@@ -12,10 +12,15 @@
 <h1> About Me 👋</h1>
 <br>
 <br>
-- 👴 01年出生 处女座 高度敏感型人格
-- 📖 21年学习网络安全
-- 💻 目前钻研于，Web安全，src挖掘，内网渗透，Python安全开发等...
-- 💬 一个小废物 ...
+| 		大项     |    熟悉      |  略懂 |
+| :------------- | :----------:|:------------:|
+| **编程**| 📖python 、| go、
+|**技能**| 💻Web安全 、src挖掘 、内网、| Python安全开发、
+|**兴趣**|工具开发、漏洞挖掘、
+
+<br>
+<br>
+
 <!--
 **yichensec/yichensec** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
