@@ -7,11 +7,11 @@
 
 ```
   
-						     _     _                       
-						 _ _|_|___| |_ ___ ___ ___ ___ ___ 
-						| | | |  _|   | -_|   |_ -| -_|  _|
-						|_  |_|___|_|_|___|_|_|___|___|___|
-						|___|                              
+					     _     _                       
+					 _ _|_|___| |_ ___ ___ ___ ___ ___ 
+					| | | |  _|   | -_|   |_ -| -_|  _|
+					|_  |_|___|_|_|___|_|_|___|___|___|
+					|___|                              
 
 	
 ```
@@ -23,7 +23,8 @@
 未来会尝试上传我自己整理的一些认为有用的东西, 以及我自己做的一些安全相关的工具
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-[![GitHub Streak](https://streak-stats.demolab.com?user=yichensec&theme=dark&border_radius=5&locale=zh_Hans&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+<!-- 仓库动态 -->
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=yichensec&show_icons=true&theme=tokyonight)
 <br>
 <div align="center">
 <h1> About Me 👋</h1>
@@ -36,9 +37,4 @@
 |**兴趣**|漏洞挖掘|工具开发、
 
 <br>
-
-<!-- 仓库动态 -->
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=yichensec&show_icons=true&theme=tokyonight)
-
-</p>
 </div>
